@@ -1,0 +1,8 @@
+{
+  "name": "machee/dragon",
+  "version": "1.0.0",
+  "dependencies": {
+    "requirejs": "2.1.*",
+    "requirejs-domready": "2.0.*"
+  }
+}
